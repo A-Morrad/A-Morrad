@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @A-Morrad
+- 👀 I’m interested in Software & Technology
+- 🌱 I’m currently learning React, Quarkus (Microservices), Dart, Flutter, C# & .NET!
+- 💞️ I’m looking to collaborate on smaller projects - preferably in back-end.
+- 📫 How to reach me https://www.linkedin.com/in/ahmed-morrad-8746861b5/
